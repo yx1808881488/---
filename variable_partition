@@ -1,3 +1,4 @@
+//假脱机系统
 #include <windows.h>
 #include <conio.h>
 #include <stdlib.h>
